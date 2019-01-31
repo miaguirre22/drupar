@@ -94,7 +94,7 @@
 	      'database' => 'drupar',
 	      'username' => 'root',
 	      'password' => 'root',
-	      'host' => 'localhost',
+	      'host' => 'localhost',	#192.168.34.180 (tgd)
 	      'port' => '',
 	      'driver' => 'mysql',
 	      'prefix' => '',
