@@ -1,0 +1,1 @@
+window.drupalTranslations = {"strings":{"":{"Save":"Guardar","Home":"Inicio","closed":"cerrado","Open":"Abierta"}},"pluralFormula":{"1":0,"default":1}};
